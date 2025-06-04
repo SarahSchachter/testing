@@ -2,5 +2,9 @@
 frfrhhhhhgv
 
 changed from my computer
+<<<<<<< HEAD
 
 www
+=======
+mommys computer
+>>>>>>> ed727026aedde9d1fbaa3db1624c738dac5f5b11
