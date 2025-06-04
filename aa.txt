@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 frfrhhhhhgv
 
 changed from my computer
+=======
+I made here changes
+frfrhhhhhgv
+>>>>>>> 373ad35eda72f83cc9e26c49ddb9c803c92c3fd6
